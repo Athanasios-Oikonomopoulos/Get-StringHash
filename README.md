@@ -57,3 +57,6 @@ Hash: 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
 > Finally, a demonstration using a string with numbers, symbols, and punctuation. The script handles all ASCII characters correctly and still produces a valid lowercase hex digest.  
 ![Complex input with special characters](screenshots/5-special-chars.png)
 
+## License
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Athanasios Oikonomopoulos
