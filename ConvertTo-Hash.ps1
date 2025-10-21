@@ -1,4 +1,4 @@
-# Get-StringHash.ps1
+# ConvertTo-Hash.ps1
 # Simple interactive script: enter a string, choose algorithm, get hash.
 
 $algorithms = 'MD5','SHA1','SHA256','SHA384','SHA512'
